@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(157, 163, 63);
+}
+
+header {
+  background-color: rgb(154, 107, 198);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1028px;
+}
+
+.logo {
+  font-size: large;
+  font-weight: 700;
+  color: aliceblue;
+  background-color: rgb(66, 71, 218);
+  border-radius: 100px;
+  line-height: 4;
+  margin-left: 24px;
+}
+
+.container h1 {
+  color: rgb(6, 85, 59);
+}
+
+.text {
+  margin: 40px 60px;
+  height: 50px;
+  text-align: center;
+  background-color: rgb(154, 107, 198);
+
+}
+
+.wa {
+  color:  rgb(154, 107, 198);
+  font-size: large;
+  font-weight: 600;
+  margin-left: 30px;
+}
